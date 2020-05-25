@@ -1,6 +1,6 @@
 # Problem statement
 ------------------------
-# This is a codeChef mediul level problem
+# This is a codeChef medium level problem
 ------------------------
 Mike likes strings. He is also interested in algorithms. A few days ago he discovered for himself a very nice problem:
 
